@@ -1,3 +1,3 @@
 # Docker-Container
 
-📦 This is where I'll be learning how to create Docker Containers.
+📦 This is where I'll be learning about Docker, and how to create Docker containers.
